@@ -1,0 +1,23 @@
+<?php
+return [
+    'title' => 'المدفوعات',
+    'add' => 'إضافة دفعة',
+    'edit' => 'تعديل دفعة',
+    'details' => 'تفاصيل الدفعة',
+    'invoice' => 'الفاتورة',
+    'customer' => 'العميل',
+    'date' => 'التاريخ',
+    'amount' => 'المبلغ',
+    'method' => 'طريقة الدفع',
+    'reference' => 'المرجع',
+    'status' => 'الحالة',
+    'actions' => 'الإجراءات',
+    'pending' => 'معلق',
+    'completed' => 'مكتمل',
+    'create_first' => 'أضف أول دفعة',
+    'no_payments' => 'لا توجد مدفوعات',
+    'back_to_list' => 'العودة للقائمة',
+    'edit_btn' => 'تعديل',
+    'delete_btn' => 'حذف',
+    'show_btn' => 'عرض',
+];

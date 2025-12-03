@@ -1,0 +1,23 @@
+<?php
+return [
+    'title' => 'Payments',
+    'add' => 'Add Payment',
+    'edit' => 'Edit Payment',
+    'details' => 'Payment Details',
+    'invoice' => 'Invoice',
+    'customer' => 'Customer',
+    'date' => 'Date',
+    'amount' => 'Amount',
+    'method' => 'Payment Method',
+    'reference' => 'Reference',
+    'status' => 'Status',
+    'actions' => 'Actions',
+    'pending' => 'Pending',
+    'completed' => 'Completed',
+    'create_first' => 'Add your first payment',
+    'no_payments' => 'No payments found',
+    'back_to_list' => 'Back to List',
+    'edit_btn' => 'Edit',
+    'delete_btn' => 'Delete',
+    'show_btn' => 'Show',
+];
